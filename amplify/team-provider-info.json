@@ -10,11 +10,6 @@
       "StackName": "amplify-amplify566da3eceda34-staging-100341",
       "StackId": "arn:aws:cloudformation:us-west-2:846057157386:stack/amplify-amplify566da3eceda34-staging-100341/937141f0-8504-11ed-b6df-06602138486d",
       "AmplifyAppId": "dhultomvbxsp1"
-    },
-    "categories": {
-      "auth": {
-        "amplifyappf8d4a6b5": {}
-      }
     }
   }
 }
